@@ -1,4 +1,4 @@
-package gid
+package gid-wrapper
 
 import (
 	"fmt"
